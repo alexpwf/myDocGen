@@ -1,0 +1,18 @@
+{
+  "name": "docgen",
+  "version": "1.0.0",
+  "description": "Generation pdf documentation from Markdown file.",
+  "main": "docGen.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.15.0",
+    "highlight.js": "^9.12.0",
+    "html-pdf": "^2.2.0",
+    "remarkable": "^1.7.1"
+  }
+}
