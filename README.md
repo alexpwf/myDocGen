@@ -22,6 +22,6 @@ Just give the path of your documentation write in Markdown and enjoy.
 ```
 
 ### Specificity of Markdown
-All rules of [github markdown convention](https://guides.github.com/features/mastering-markdown/) is respected **EXCEPT** one think.
+All rules of [github markdown convention](https://guides.github.com/features/mastering-markdown/) is respected **EXCEPT** one thing.
 ###### Horizontal Rules
 - `***` is changed to *end of page* for pdf format. 
