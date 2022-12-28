@@ -1,6 +1,6 @@
 # myDocGen
 
-Just another documentation generator from a markdown file, for my projects.
+Just another documentation generator from a markdown file to a pdf.
 
 ## Install
 
